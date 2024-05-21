@@ -30,7 +30,7 @@ Welcome to the Rock-Paper-Scissors game! Challenge yourself against the computer
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   https://github.com/omchangela/Rock-paper-scissors-Game.git
    ```
 2. Open `index.html` in your browser to start the game.
 
